@@ -145,7 +145,7 @@ var defaultProps = {
 		chartType: 'xy',
 		title: "",
 		source: "",
-		credit: "Made with Chartbuilder",
+		credit: "Credit Here/Sun Sentinel",
 		size: "auto"
 	}
 };

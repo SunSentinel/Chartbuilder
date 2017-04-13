@@ -18,8 +18,8 @@ var chart_style = {
 	overtick_top: "0.8em",
 	overtick_bottom: "0.8em",
 	fontFamilies: { // necessary for calculating text width before render
-		axes: "Khula-Light",
-		labels: "Khula-Light"
+		axes: "Arial",
+		labels: "Arial"
 	},
 	fontSizes: {
 		large: "1.2em",
@@ -27,7 +27,7 @@ var chart_style = {
 		small: "0.8em"
 	},
 	dotRadiusFactor: 0.007, // size of dot as % of width
-	numColors: 11,
+	numColors: 14,
 	xOverTick: "1em", // horizontal the distance between the yAxes and xAxis
 	creditMargin: "0.6em"
 };

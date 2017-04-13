@@ -125,7 +125,7 @@ var defaultProps = {
 		chartType: "chartgrid",
 		title: "",
 		source: "",
-		credit: "Made with Chartbuilder",
+		credit: "Credit Here/Sun Sentinel",
 		size: "auto"
 	}
 };
